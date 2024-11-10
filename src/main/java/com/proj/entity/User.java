@@ -13,6 +13,7 @@ import java.util.List;
 @Table(name = "users_table")
 @Data
 public class User {
+    @Id
     private String userId;
     private String fullName;
     private String email;
