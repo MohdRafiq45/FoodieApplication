@@ -1,10 +1,10 @@
-# Meal-Matrix-
+
 ## Online Delivery App Backend
 ### Overview
 This project is an Online Food Delivery application designed to streamline the food ordering process for both customers and restaurant owners. It leverages Spring Boot for the backend, and integrates several other technologies to ensure robust authentication .
 
 ## Features
-### User Authentication: Utilizes Spring Security with JWT for secure authentication.
+### User Authentication: Utilizes Spring Security secure authentication.
 ### Secure Payments: Integrated with Stripe payment gateway for secure and seamless transactions.
 ### Role-Based Access Control: Differentiates between customer and owner roles to provide personalized user experiences.
 ### Real-Time Updates: Continuously enhanced based on user feedback and market trends.
@@ -13,7 +13,6 @@ This project is an Online Food Delivery application designed to streamline the f
 Spring Boot
 Spring Security
 MySQL
-JWT (JSON Web Tokens)
 ## Installation and Setup
 Prerequisites
 Java 11 or higher
@@ -32,5 +31,4 @@ Contributions are welcome! Please fork the repository and submit pull requests f
 
 ## Acknowledgements
 Thanks to the contributors of Spring Boot, React, Tailwind CSS, MUI, and Stripe for their excellent libraries and tools.
-Contact
-For any queries or support, please contact Raj Mathur at rajmathur8409@gmail.com.
+
